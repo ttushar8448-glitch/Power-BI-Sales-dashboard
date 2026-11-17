@@ -29,4 +29,5 @@ Tushar
 
 Aspiring Data Analyst
 
-Skills: Excel | SQL | Power BI | Python
+Skills: Excel | SQL | Power BI 
+
